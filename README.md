@@ -9,7 +9,7 @@ El Diccionari de la Llengua Catalana de l'Institut d'Estudis Catalans (DIEC) és
 
 __English__
 
-A Firefox search engine plugins for Diccionari de la Llengua Catalana de l'Institut d'Estudis Catalans.
+A Firefox search engine plugin for Diccionari de la Llengua Catalana de l'Institut d'Estudis Catalans.
 
 ## About
 The Institut d'Estudis Catalans (a.k.a. IEC) is an academic institution which seeks to undertake research and study into "all elements of Catalan culture".
